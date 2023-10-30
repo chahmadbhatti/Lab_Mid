@@ -1,0 +1,17 @@
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\obj\Debug\net6.0-windows\labb.csproj.AssemblyReference.cache
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\obj\Debug\net6.0-windows\labb.Form1.resources
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\obj\Debug\net6.0-windows\labb.csproj.GenerateResource.cache
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\obj\Debug\net6.0-windows\labb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\obj\Debug\net6.0-windows\labb.AssemblyInfoInputs.cache
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\obj\Debug\net6.0-windows\labb.AssemblyInfo.cs
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\obj\Debug\net6.0-windows\labb.csproj.CoreCompileInputs.cache
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\bin\Debug\net6.0-windows\labb.exe
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\bin\Debug\net6.0-windows\labb.deps.json
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\bin\Debug\net6.0-windows\labb.runtimeconfig.json
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\bin\Debug\net6.0-windows\labb.dll
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\bin\Debug\net6.0-windows\labb.pdb
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\obj\Debug\net6.0-windows\labb.dll
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\obj\Debug\net6.0-windows\refint\labb.dll
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\obj\Debug\net6.0-windows\labb.pdb
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\obj\Debug\net6.0-windows\labb.genruntimeconfig.cache
+C:\Users\213031.AUMC\Documents\Viscual programming mam atka\labmid 213031\labb\labb\obj\Debug\net6.0-windows\ref\labb.dll
